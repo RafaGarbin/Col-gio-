@@ -1,0 +1,59 @@
+
+#colegio1 {    width: 100%;}
+
+.principal{
+   background: #99ccff;
+    padding: 30px;
+	}
+h1 {font-size:55px;text-align:center;color:blue}
+
+p {font-size:30px;text-align:left}
+
+#criador{font-size: 20px} 
+em strong {
+    color: #990000;}
+
+h2 {font-size:35px;text-align:center;color:#663300}
+h3 {font-size:35px;text-align:center;color:#663300}
+
+
+
+.menu{
+    background: #6699cc;
+     padding: 30px;
+	}
+
+#lista1
+.itens{ font-style: italic; font-size:25px}
+
+
+  ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#lista2
+.itens{ font-style: italic; font-size:25px}
+
+
+  ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin: 0 auto;
+}
+.foto{
+    width: 30%;}
+
+  
+.história{
+    background: #3366FF;
+	 padding: 30px;
+	}
+
+.colegioantigo1{
+    width: 100%;}
+
+
